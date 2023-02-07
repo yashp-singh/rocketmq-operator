@@ -588,3 +588,4 @@ $ ./build-namesrv-image.sh
 The Console CR directly uses the RocketMQ Dashboard image from https://github.com/apache/rocketmq-docker/blob/master/image-build/Dockerfile-centos-dashboard, which has no customization for the operator. 
 
 > Note: For users who just want to use the operator, there is no need to build the operator and customized broker and name server images themselves. Users can simply use the default official images which are maintained by the RocketMQ community. 
+> test
